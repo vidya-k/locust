@@ -1,0 +1,2 @@
+userName,password,tenantId,url,college,keyclockUrl
+heraizenadmin@heraizen.com,dhi001,dhi_qa3,https://qa3.dhi-edu.com/dhiapiserver/api/,dhi_qa3,https://testid.dhi-edu.com/auth/realms/dhi_qa3/protocol/openid-connect/token
